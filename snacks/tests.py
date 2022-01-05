@@ -26,3 +26,4 @@ class SnacksTestCase(SimpleTestCase):
         res = self._get_url('about')
         self.assertTemplateUsed(res, 'about.html')
         self.assertTemplateUsed(res, '_base.html')
+        
