@@ -8,4 +8,4 @@ App is not deployed anywhere, but can be run on a local server using `python man
 
 ## Submission
 
-PR: [working-branch #1](http.cats)
+PR: [working-branch #1](https://github.com/jstreifel-33/django-snacks/pull/1)
